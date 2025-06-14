@@ -1,10 +1,18 @@
-# CIPT (Version 3.2.0) Exam BOK Supplement
+# CIPT (Version 3.2.0) Exam BOK Supplement (valid until September 1st 2025)
+This repository serves as a supplement to the Certified Information Privacy Technologist (CIPT) Exam Body of Knowledge (BOK), providing links to topics referenced in the BoK (Version 3.2.0). The BoK can be accessed here: https://iapp.org/certify/body-of-knowledge-cipt/ 
+From September 1st 2025 v.3.2.0 will be superseded by Version 4.0.0 : https://iapp.org/media/pdf/certification/IAPP_Training-CIPT_BOK_FINAL_15May2025.pdf . The Q3 2025 Annual Update outlines the CIPT updates when comparing v.3.2.0 with 4.0.0 https://iapp.org/certify/q3-2025-annual-updates/
 
-This repository serves as a supplement to the Certified Information Privacy Technologist (CIPT) Exam Body of Knowledge (BOK), providing links to topics referenced in the BoK (Version 3.2.0).
-
-It's essential to be aware that this supplementary document is unofficial, and the linked resources may not encompass the knowledge sought by the International Association of Privacy Professionals (IAPP).
+**It's essential to be aware that this supplementary document is unofficial, and the linked resources may not encompass the knowledge sought by the International Association of Privacy Professionals (IAPP). The resources however are meant to add to the IAPP courseware, and build on the knowledge provided. It is possible that some of the content is in Dutch, however, care will be taken to use English as much as possible.**
 
 You are encouraged to share and contribute to this repository.
+
+The IAPP advises two books that are foundational to the CIPT training (BoK v.3.2.0): 
+1. **Travis D. Breaux, CIPT -Executive Editor- “An Introduction to Privacy for Technology Professionals (2024).** Official textbook for the CIPT program. ”https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-second-edition-print/ or https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-second-edition-digital/
+2. **R. Jason Cronk, CIPP/US, CIPM, CIPT, FIP. Strategic Privacy by Design, Second Edition (2022)**. https://store.iapp.org/strategic-privacy-by-design-second-edition-print/ or https://store.iapp.org/strategic-privacy-by-design-second-edition-digital/
+
+A free glossary with privacy terms is also provided by IAPP: https://iapp.org/resources/glossary/
+More information on the CIPT program can be found here: https://iapp.org/certify/cipt/
+
 
 ## I. Foundational Principles
 

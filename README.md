@@ -1,5 +1,8 @@
+This fork is copied and re-edited. Information, references en links have since been altered, deleted or added.
+
 # CIPT (Version 3.2.0) Exam BOK Supplement (valid until September 1st 2025)
 This repository serves as a supplement to the Certified Information Privacy Technologist (CIPT) Exam Body of Knowledge (BOK), providing links to topics referenced in the BoK (Version 3.2.0). The BoK can be accessed here: https://iapp.org/certify/body-of-knowledge-cipt/ 
+This fork is copied and re-edited. Information, references en links have been altered, deleted or added.
 
 From September 1st 2025 v.3.2.0 will be superseded by Version 4.0.0 : https://iapp.org/media/pdf/certification/IAPP_Training-CIPT_BOK_FINAL_15May2025.pdf . 
 
@@ -12,9 +15,9 @@ You are encouraged to share and contribute to this repository.
 **Books**
 
 The IAPP advises two books that are foundational to the CIPT training (BoK v.3.2.0): 
-1. **Travis D. Breaux, CIPT -Executive Editor- “An Introduction to Privacy for Technology Professionals (2024).** Official textbook for the CIPT program. ”https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-second-edition-print/ or https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-second-edition-digital/
+1. **Breaux,T.D. CIPT - Executive Editor - “An Introduction to Privacy for Technology Professionals (2024).** Official textbook for the CIPT program. ”https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-second-edition-print/ or https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-second-edition-digital/
 
-2. **R. Jason Cronk, CIPP/US, CIPM, CIPT, FIP. Strategic Privacy by Design, Second Edition (2022)**. https://store.iapp.org/strategic-privacy-by-design-second-edition-print/ or https://store.iapp.org/strategic-privacy-by-design-second-edition-digital/
+2. **Cronk, R.J. CIPP/US, CIPM, CIPT, FIP. Strategic Privacy by Design, Second Edition (2022)**. https://store.iapp.org/strategic-privacy-by-design-second-edition-print/ or https://store.iapp.org/strategic-privacy-by-design-second-edition-digital/
 
 
 **Privacy terms**
@@ -25,10 +28,27 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 
 ## I. Foundational Principles
 
-** 1. Distinguish between an privacy notice and privacy policy**
-- [D. Breaux, T. (Ed.) (2024). An Introduction to Privacy for Technology Professionals Digital. International Association of Privacy Professionals (IAPP). Section 5.4.1.1.
+1. **Distinguish between a privacy notice and privacy policy**
+- [D. Breaux, T. (Ed.) (2024)]. Section 5.4.1.1.
 
-**2. The data life cycle**
+2. **Summarize the data life cycle**
+- [D. Breaux, T. (Ed.) (2024)]. Section 1.6
+
+3. **Recognize the foundational principles of privacy by design**
+- [Cronk, R.J. (2022)] Chapter 1. What Is Privacy by Design?
+- [IAPP Resource Center] Ann Cavoukian, Ph.D. - The 7 Foundational Principles of Privacy https://iapp.org/media/pdf/resource_center/pbd_implement_7found_principles.pdf
+- [Ann Cavoukian, Ph.D. Information & Privacy Commissioner, Ontario, Canada] Privacy by Design - The 7 Foundational Principles - Implementation and Mapping of Fair Information Practices. IAB Workshop on Internet Privacy (privacyws) Team (last updated: 13-02-2023) https://www.ietf.org/slides/slides-privacyws-privacy-by-design-the-seven-foundational-principles-00.pdf .
+- Metadata: https://datatracker.ietf.org/doc/slides-privacyws-privacy-by-design-the-seven-foundational-principles/
+
+4. **Examine privacy risk models and frameworks**
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1 Privacy Risk Modeling
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.3.1 The Compliance Model
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.3.2 Fair Information Practice Principles (FIPPs)
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.3.3 Subjective/Objective Dichotomy (Harms Dimensions)
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.2.1 Contextual Integrity (Contextual Integrity)
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.2.2 Privacy Risk Management Framework
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.2.2.3 Risk Assessment (Factor Analysis in Information Risk - FAIR model)
+5. 
 ### A. General Understanding of Privacy Risk Models and Frameworks and their Roles in Laws and Guidance
 
 #### a. FIPPs and OECD Principles
@@ -51,8 +71,6 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 #### e. FAIR (Factor Analysis in Information Risk)
 - [Jones, J. (n.d.). An Introduction to Factor Analysis of Information Risk (FAIR).](https://web.archive.org/web/20141118061526/http://www.riskmanagementinsight.com/media/docs/FAIR_introduction.pdf)
 
-### B. General Understanding of Privacy by Design Principles
-- [The OECD Privacy Framework. OECD.](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf) (Page 7-10)
 
 ### C. General Understanding of Privacy-related Technology Fundamentals
 
@@ -82,8 +100,7 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 #### k. Privacy related Key Risk Indicators (KRIs) and Key Performance Indicators (KPIs)
 - [Tene, O., & Culnan, M. PRIVACY METRICS REPORT. Future of Privacy Forum.](https://fpf.org/wp-content/uploads/2022/03/FPF-PrivacyMetricsReport-R9-Digital.pdf)
 
-### D. General Understanding of the Data Life Cycle
-- [D. Breaux, T. (Ed.). An Introduction to Privacy for Technology Professionals Digital. International Association of Privacy Professionals (IAPP).](https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-digital/) (Section 1.6)
+
 
 ## II. The Privacy Technologist’s Role in the Context of the Organization
 

@@ -25,6 +25,10 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 
 ## I. Foundational Principles
 
+** 1. Distinguish between an privacy notice and privacy policy**
+- [D. Breaux, T. (Ed.) (2024). An Introduction to Privacy for Technology Professionals Digital. International Association of Privacy Professionals (IAPP). Section 5.4.1.1.
+
+**2. The data life cycle**
 ### A. General Understanding of Privacy Risk Models and Frameworks and their Roles in Laws and Guidance
 
 #### a. FIPPs and OECD Principles

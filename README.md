@@ -43,17 +43,19 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 4. **Examine privacy risk models and frameworks**
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1 Privacy Risk Modeling
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.3.1 The Compliance Model
+  #### Fair Information Practice Principles (FIPP's)
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.3.2 Fair Information Practice Principles (FIPPs)
+  - [Fair Information Practice Principles (FIPPs). Fpc.Gov.](https://www.fpc.gov/resources/fipps/)
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.3.3 Subjective/Objective Dichotomy (Harms Dimensions)
+  #### Nissenbaum’s Contextual Integrity
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.2.1 Contextual Integrity (Contextual Integrity)
+  - [Nissenbaum, H. (2004). Privacy as Contextual Integrity. Washington Law Review, 79.](https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=4450&context=wlr)
+  - [Malkin, N. (2023). Contextual Integrity, Explained: A More Usable Privacy Definition. IEEE Security & Privacy, 21(1).](https://www.computer.org/csdl/magazine/sp/2023/01/09990902/1J9z9wIXRao)
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.2 Privacy Risk Management Framework
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.2.3 Risk Assessment (Factor Analysis in Information Risk - FAIR model)
-5. 
-### A. General Understanding of Privacy Risk Models and Frameworks and their Roles in Laws and Guidance
 
-#### a. FIPPs and OECD Principles
-- [Fair Information Practice Principles (FIPPs). Fpc.Gov.](https://www.fpc.gov/resources/fipps/)
-- [The OECD Privacy Framework. OECD.](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf) (Page 14-15) 
+5. **Explain the concepts of value-sensitive design**
+- [D. Breaux, T. (Ed.) (2024)]. Section 5.3.3. Value sensitive design
 
 ### b. Privacy frameworks (e.g., NIST/NICE, ISO/IEC 27701 and BS100112 Privacy Information Management System)
 - [Privacy Framework. (2020). NIST.](https://www.nist.gov/privacy-framework/privacy-framework)
@@ -62,7 +64,7 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 - [Summary of the HIPAA Privacy Rule. (2008, May 7). Hhs.Gov.](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
 
 #### c. Nissenbaum’s Contextual Integrity
-- [Nissenbaum, H. (2004). Privacy as Contextual Integrity. Washington Law Review, 79.](https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=4450&context=wlr) 
+
 - [Malkin, N. (2023). Contextual Integrity, Explained: A More Usable Privacy Definition. IEEE Security & Privacy, 21(1).](https://www.computer.org/csdl/magazine/sp/2023/01/09990902/1J9z9wIXRao)
 
 #### d. Calo’s Harms Dimensions

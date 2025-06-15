@@ -36,9 +36,9 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 
 3. **Recognize the foundational principles of privacy by design**
 - [Cronk, R.J. (2022)] Chapter 1. What Is Privacy by Design?
-- [IAPP Resource Center] Ann Cavoukian, Ph.D. - The 7 Foundational Principles of Privacy https://iapp.org/media/pdf/resource_center/pbd_implement_7found_principles.pdf
-- [Ann Cavoukian, Ph.D. Information & Privacy Commissioner, Ontario, Canada] Privacy by Design - The 7 Foundational Principles - Implementation and Mapping of Fair Information Practices. IAB Workshop on Internet Privacy (privacyws) Team (last updated: 13-02-2023) https://www.ietf.org/slides/slides-privacyws-privacy-by-design-the-seven-foundational-principles-00.pdf .
-- Metadata: https://datatracker.ietf.org/doc/slides-privacyws-privacy-by-design-the-seven-foundational-principles/
+  - [IAPP Resource Center] Ann Cavoukian, Ph.D. - The 7 Foundational Principles of Privacy https://iapp.org/media/pdf/resource_center/pbd_implement_7found_principles.pdf
+  - [Ann Cavoukian, Ph.D. Information & Privacy Commissioner, Ontario, Canada] Privacy by Design - The 7 Foundational Principles - Implementation and Mapping of Fair Information Practices. IAB Workshop on Internet Privacy (privacyws) Team (last updated: 13-02-2023) https://www.ietf.org/slides/slides-privacyws-privacy-by-design-the-seven-foundational-principles-00.pdf .
+  - Metadata: https://datatracker.ietf.org/doc/slides-privacyws-privacy-by-design-the-seven-foundational-principles/
 
 4. **Examine privacy risk models and frameworks**
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1 Privacy Risk Modeling
@@ -46,35 +46,32 @@ More information on the CIPT program can be found here: https://iapp.org/certify
   #### Fair Information Practice Principles (FIPP's)
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.3.2 Fair Information Practice Principles (FIPPs)
   - [Fair Information Practice Principles (FIPPs). Fpc.Gov.](https://www.fpc.gov/resources/fipps/)
+  #### Calo’s Harms Dimensions
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.3.3 Subjective/Objective Dichotomy (Harms Dimensions)
+  - [Calo, M. R. (n.d.). The Boundaries of Privacy Harm. INDIANA LAW JOURNAL, 86.](https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=1016&context=ilj) 
   #### Nissenbaum’s Contextual Integrity
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.1.2.1 Contextual Integrity (Contextual Integrity)
   - [Nissenbaum, H. (2004). Privacy as Contextual Integrity. Washington Law Review, 79.](https://digitalcommons.law.uw.edu/cgi/viewcontent.cgi?article=4450&context=wlr)
   - [Malkin, N. (2023). Contextual Integrity, Explained: A More Usable Privacy Definition. IEEE Security & Privacy, 21(1).](https://www.computer.org/csdl/magazine/sp/2023/01/09990902/1J9z9wIXRao)
+  #### Privacy Risk Management Framework
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.2 Privacy Risk Management Framework
+  - NIST PRAM - https://www.nist.gov/privacy-framework/nist-pram
+  #### FAIR model (Factor Analysis in Information Risk)
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.2.2.3 Risk Assessment (Factor Analysis in Information Risk - FAIR model)
-
+  - [Jones, J. (n.d.). An Introduction to Factor Analysis of Information Risk (FAIR).](https://web.archive.org/web/20141118061526/http://www.riskmanagementinsight.com/media/docs/FAIR_introduction.pdf)
+  - [Cronk, R.J., Shapiro, S.S. (2021) Quantitative Privacy Risk Analysis. 2021 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW) | 978-1-6654-1012-0/21/$31.00 ©2021 IEEE | DOI: 10.1109/EuroSPW54576.2021.0004] https://www.nist.gov/system/files/documents/2025/04/10/Quantitative_Privacy_Risk_Analysis.pdf)
+    
 5. **Explain the concepts of value-sensitive design**
 - [D. Breaux, T. (Ed.) (2024)]. Section 5.3.3. Value sensitive design
 
-### b. Privacy frameworks (e.g., NIST/NICE, ISO/IEC 27701 and BS100112 Privacy Information Management System)
+### Additional - Privacy frameworks (e.g., NIST/NICE, ISO/IEC 27701 and BS100112 Privacy Information Management System)
 - [Privacy Framework. (2020). NIST.](https://www.nist.gov/privacy-framework/privacy-framework)
 - [ISO/IEC 27701. (2023). In Wikipedia.](https://en.wikipedia.org/wiki/ISO/IEC_27701)
 - [BS 10012—Personal Information Management, Training, certification. (n.d.). Bsi.](https://www.bsigroup.com/en-GB/BS-10012-Personal-information-management/)
 - [Summary of the HIPAA Privacy Rule. (2008, May 7). Hhs.Gov.](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
 
-#### c. Nissenbaum’s Contextual Integrity
-
-- [Malkin, N. (2023). Contextual Integrity, Explained: A More Usable Privacy Definition. IEEE Security & Privacy, 21(1).](https://www.computer.org/csdl/magazine/sp/2023/01/09990902/1J9z9wIXRao)
-
-#### d. Calo’s Harms Dimensions
-- [Calo, M. R. (n.d.). The Boundaries of Privacy Harm. INDIANA LAW JOURNAL, 86.](https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=1016&context=ilj) 
-
-#### e. FAIR (Factor Analysis in Information Risk)
-- [Jones, J. (n.d.). An Introduction to Factor Analysis of Information Risk (FAIR).](https://web.archive.org/web/20141118061526/http://www.riskmanagementinsight.com/media/docs/FAIR_introduction.pdf)
-
-
-### C. General Understanding of Privacy-related Technology Fundamentals
+### Additional - Github
+- [NIST Privacy Engineering Collaboration Space - an online venue open to the public where practitioners can discover, share, discuss, and improve upon open source tools, solutions, and processes that support privacy engineering and risk management.] (https://github.com/usnistgov/PrivacyEngCollabSpace.git)
 
 #### a. Risk concepts (e.g., threats, vulnerability)
 - [D. Breaux, T. (Ed.). An Introduction to Privacy for Technology Professionals Digital. International Association of Privacy Professionals (IAPP). Section 1.3.](https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-digital/)

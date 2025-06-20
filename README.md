@@ -73,6 +73,7 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 ### Additional - Github
 - [NIST Privacy Engineering Collaboration Space - an online venue open to the public where practitioners can discover, share, discuss, and improve upon open source tools, solutions, and processes that support privacy engineering and risk management.] (https://github.com/usnistgov/PrivacyEngCollabSpace.git)
 
+#### Not yet edited
 #### a. Risk concepts (e.g., threats, vulnerability)
 - [D. Breaux, T. (Ed.). An Introduction to Privacy for Technology Professionals Digital. International Association of Privacy Professionals (IAPP). Section 1.3.](https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-digital/)
   

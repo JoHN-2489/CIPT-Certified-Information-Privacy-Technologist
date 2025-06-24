@@ -29,10 +29,10 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 ## I. Foundational Principles
 
 1. **Distinguish between a privacy notice and privacy policy**
-- [D. Breaux, T. (Ed.) (2024)]. Section 5.4.1.1.
+- [D. Breaux, T. (Ed.) (2024)]. Section 5.4.1.1. Privacy Notices
 
 2. **Summarize the data life cycle**
-- [D. Breaux, T. (Ed.) (2024)]. Section 1.6
+- [D. Breaux, T. (Ed.) (2024)]. Section 1.6 The Data Lifecycle
 
 3. **Recognize the foundational principles of privacy by design**
 - [Cronk, R.J. (2022)] Chapter 1. What Is Privacy by Design?
@@ -73,7 +73,29 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 ### Additional - Github
 - [NIST Privacy Engineering Collaboration Space - an online venue open to the public where practitioners can discover, share, discuss, and improve upon open source tools, solutions, and processes that support privacy engineering and risk management.] (https://github.com/usnistgov/PrivacyEngCollabSpace.git)
 
-#### Not yet edited
+## II. The role of the technology professional in privacy
+
+1. **Summarize the fundamentals of privacy-related technology**
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.1.1 The Privacy Engineer
+- [D. Breaux, T. (Ed.) (2024)]. Section 5.4.1.1 Privacy Notices
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.4.2.1 Object and data models - database schema's
+- [D. Breaux, T. (Ed.) (2024)]. Section 1.6 The Data Lifecycle - data retention
+
+
+
+2. **Explain the role of information security in protecting privacy**
+
+
+
+
+3. **Understand what roles and responsibilities technology professionals hold when dealing with privacy**
+
+4. 
+
+
+
+#### The following text has not been edited to date
+
 #### a. Risk concepts (e.g., threats, vulnerability)
 - [D. Breaux, T. (Ed.). An Introduction to Privacy for Technology Professionals Digital. International Association of Privacy Professionals (IAPP). Section 1.3.](https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-digital/)
   
@@ -104,8 +126,7 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 
 ## II. The Privacy Technologist’s Role in the Context of the Organization
 
-### A. General responsibilities
-### B. Technical Responsibilities
+
 
 ## III. Privacy Risks, Threats and Violations
 

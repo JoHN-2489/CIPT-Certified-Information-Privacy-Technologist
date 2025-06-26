@@ -64,10 +64,9 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 5. **Explain the concepts of value-sensitive design**
 - [D. Breaux, T. (Ed.) (2024)]. Section 5.3.3. Value sensitive design
 
-### Additional - Privacy frameworks (e.g., NIST/NICE, ISO/IEC 27701 and BS100112 Privacy Information Management System)
+### Additional - Privacy frameworks (e.g., NIST/NICE, ISO/IEC 27701)
 - [Privacy Framework. (2020). NIST.](https://www.nist.gov/privacy-framework/privacy-framework)
 - [ISO/IEC 27701. (2023). In Wikipedia.](https://en.wikipedia.org/wiki/ISO/IEC_27701)
-- [BS 10012—Personal Information Management, Training, certification. (n.d.). Bsi.](https://www.bsigroup.com/en-GB/BS-10012-Personal-information-management/)
 - [Summary of the HIPAA Privacy Rule. (2008, May 7). Hhs.Gov.](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html)
 
 ### Additional - Github
@@ -81,12 +80,40 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.4.2.1 Object and data models - database schema's
 - [D. Breaux, T. (Ed.) (2024)]. Section 1.6 The Data Lifecycle - data retention
 
+### Additional
 
+### Privacy Notice - Privacy Policy
+- [Privacy Policy. IAPP.](https://iapp.org/resources/article/privacy-policy/)
 
+### Data inventories, classification and records of processing
+- [Data Governance: The Definitive Guide - O'Reilly Media - Chapter 1. What Is Data Governance?] https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html (Open access)
+- [Privacy Framework. (2020). NIST.](https://www.nist.gov/privacy-framework/privacy-framework) (Contracts)
+- [Data Classification Concepts and Considerations for Improving Data Protection.(2023) NIST Internal Report NIST IR 8496 ipd.] (https://doi.org/10.6028/NIST.IR.8496.ipd)
+  
 2. **Explain the role of information security in protecting privacy**
 
-
-
+- [D. Breaux, T. (Ed.) (2024)]. Section 5.4.4.1 Build on Privacy Assessment, Privacy Management, and Privacy Engineering Practice (PIA)
+- [D. Breaux, T. (Ed.) (2024)]. Section 5.4.4.2 Identify Users and Their Privacy Needs (PIA)
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.4.1 Common Information Technology Architectures (Enterprise architecture)
+- [D. Breaux, T. (Ed.) (2024)]. Section 9.1 The Breadth of Computer Security Work (Breach and incident response)
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.4.3.4 Confidentiality (Breach and incident response)
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.4.3.1 Identifiability (Breach and incident response)
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.4.3.5 Availability (Breach and incident response)
+- [D. Breaux, T. (Ed.) (2024)]. Section 9.1 The Breadth of Computer Security Work (Breach and incident response; NICE framework)
+- 
+### Additional
+### DPIA's
+-[IAPP Topic Page - Data Protection and Privacy Impact Assessments] https://iapp.org/resources/topics/privacy-impact-assessment-2/
+- [Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), (2016).](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679-20160504) (Article 4(12) - Personal Data Breach; Article 35 - Data Protection Impact Assessment)
+### Archtecture
+-[NIST Cloud Computing Program – NCCP, National Institute of Standards and Technology (NIST), updated May 12, 2022] www.nist.gov/itl/cloud/
+### Breach and incident response
+- [NIST SP 800-61 Rev. 3 Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile] (https://csrc.nist.gov/pubs/sp/800/61/r3/final)
+- [Incident—Glossary | CSRC. NIST.] (https://csrc.nist.gov/glossary/term/incident)
+- [Security incident—Glossary | CSRC. NIST.](https://csrc.nist.gov/glossary/term/security_incident)
+- [Breach —Glossary | CSRC. NIST.](https://csrc.nist.gov/glossary/term/breach)
+- [Privacy Breach - Glossary | CSRC. NIST.](https://csrc.nist.gov/glossary/term/privacy_breach)
+- [NICE Framework Resource Center] https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center
 
 3. **Understand what roles and responsibilities technology professionals hold when dealing with privacy**
 
@@ -100,8 +127,6 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 - [D. Breaux, T. (Ed.). An Introduction to Privacy for Technology Professionals Digital. International Association of Privacy Professionals (IAPP). Section 1.3.](https://store.iapp.org/an-introduction-to-privacy-for-technology-professionals-digital/)
   
 #### b. Data/security incidents vs. personal data/privacy breaches
-- [Security incident—Glossary | CSRC. NIST.](https://csrc.nist.gov/glossary/term/security_incident)
-- [Privacy Breach - Glossary | CSRC. NIST.](https://csrc.nist.gov/glossary/term/privacy_breach)
 - [Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), (2016).](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679-20160504) (Article 4(12) GDP)
 
 #### e. External Data Protection and Privacy notices
@@ -111,8 +136,6 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 #### f. Internal Data Protection and Privacy guidelines, policies and procedures
 - [Privacy Policy. IAPP.](https://iapp.org/resources/article/privacy-policy/)
 
-#### h.Data inventories, classification and records of processing
-- [Data Classification Concepts and Considerations for Improving Data Protection (NIST IR 8496 ipd; p. NIST IR 8496 ipd). National Institute of Standards and Technology.](https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8496.ipd.pdf)
 
 #### j. Data Protection and Privacy impact assessments (DPIA/PIAs)
 - [Data Protection Impact Assessment (DPIA) | European Data Protection Supervisor. (2023, November 16).](https://edps.europa.eu/data-protection-impact-assessment-dpia_en)

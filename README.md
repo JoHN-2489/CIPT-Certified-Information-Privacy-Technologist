@@ -100,6 +100,7 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.4.3.1 Identifiability (Breach and incident response)
 - [D. Breaux, T. (Ed.) (2024)]. Section 2.4.3.5 Availability (Breach and incident response)
 - [D. Breaux, T. (Ed.) (2024)]. Section 9.1 The Breadth of Computer Security Work (Breach and incident response; NICE framework)
+- [D. Breaux, T. (Ed.) (2024)]. Section 2.1.3 Software Process Models (Systems Development Life Cycle)
 - 
 ### Additional
 ### DPIA's
@@ -113,7 +114,10 @@ More information on the CIPT program can be found here: https://iapp.org/certify
 - [Security incident—Glossary | CSRC. NIST.](https://csrc.nist.gov/glossary/term/security_incident)
 - [Breach —Glossary | CSRC. NIST.](https://csrc.nist.gov/glossary/term/breach)
 - [Privacy Breach - Glossary | CSRC. NIST.](https://csrc.nist.gov/glossary/term/privacy_breach)
-- [NICE Framework Resource Center] https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center
+- [NICE Framework Resource Center] (https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center)
+### Systems Development Life Cycle
+- [NIST - The System Development Life Cycle (SDLC).(2009)](https://csrc.nist.gov/CSRC/media/Publications/Shared/documents/itl-bulletin/itlbul2009-04.pdf)- not current anymore but displays an image of the The System Development Life Cycle and explanation of each phase.
+- [NIST Special Publication NIST SP 800-160v1r1 Engineering Trustworthy Secure Systems-(2022)] (https://doi.org/10.6028/NIST.SP.800-160v1r1)
 
 3. **Understand what roles and responsibilities technology professionals hold when dealing with privacy**
 
